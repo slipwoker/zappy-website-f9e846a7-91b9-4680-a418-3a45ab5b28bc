@@ -1,0 +1,58 @@
+# בית קפה בעלמא — Generative Engine Optimization Map
+
+> A מסעדנות ובתי קפה business.
+
+---
+
+## Pages
+
+### בית
+https://-f9e846a7.zappy5.app
+בית קפה משפחתי באזור עם אווירה כפרית רגועה. מקום מושלם למשפחות וסטודנטים ללמוד עם wifi חינמי.
+
+### התפריט
+https://-f9e846a7.zappy5.app/menu
+גלו את תפריט בית קפה בעלמא - משקאות קפה איכותיים, מאפים טריים, ארוחות בוקר וכריכים. בית קפה משפחתי באזור.
+
+### אודות
+https://-f9e846a7.zappy5.app/about
+הכירו את בית קפה בעלמא - בית קפה משפחתי באזור עם אווירה כפרית רגועה. מקום מפגש למשפחות וסטודנטים ללמוד.
+
+### צור קשר
+https://-f9e846a7.zappy5.app/contact
+צור קשר עם בית קפה בעלמא - בית קפה משפחתי באזור. הזמן שולחן או בוא לבקר אותנו היום!
+
+## Legal & Policy
+
+### Privacy Policy
+https://-f9e846a7.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-f9e846a7.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-f9e846a7.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About בית קפה בעלמא
+בית קפה בעלמא is a business in the מסעדנות ובתי קפה industry.
+
+## Target Audience
+- משפחות מהאזור
+- סטודנטים ואנשי מקצוע צעירים
+
+## Industry
+מסעדנות ובתי קפה
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://-f9e846a7.zappy5.app/sitemap.xml
+- **Robots.txt**: https://-f9e846a7.zappy5.app/robots.txt
